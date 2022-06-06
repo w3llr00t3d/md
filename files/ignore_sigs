@@ -1,0 +1,5 @@
+{CAV}Heuristics.Phishing.Email.SpoofedDomain
+{HEX}EICAR.TEST.10
+{HEX}php.exe.globals.406
+{HEX}gzbase64.inject.unclassed.15
+{HEX}base64.inject.unclassed.7

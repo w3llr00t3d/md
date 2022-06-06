@@ -1,0 +1,16 @@
+^/.*/color_field\.drush\.inc
+^/.*/fontawesome\.drush\.inc
+^/.*/fullcalendar\.drush\.inc
+^/dev/null
+^/dev/pts*
+^/home/.*/bootstrap/hooks/clean\.inc
+^/opt/backups/sql/.*\.sql\.gz
+^/tmp/#sql_.*\.MYD$
+^/tmp/clamav-.*
+^/tmp/md_scan\.txt
+^/tmp/mysql.sock$
+^/usr/local/maldetect*
+^/var/cache/buagent/md0.cache.data$
+^/var/tmp/#sql_.*\.MYD$
+^/var/tmp/clamav-.*
+^/var/tmp/mysql.sock$
